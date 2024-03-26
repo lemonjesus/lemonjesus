@@ -1,0 +1,12 @@
+### Hello! I'm Tucker - a software engineer with too many hobbies. 🙂
+
+I'm a Ruby developer with a focus on backend development writing high-throughput, low-latency services. I've worked at Groupon working on and later owning the Users Service (the zero-downtime service handling user auth). Now, I work at Notion (the IoT company, not the note-taking app) on the backend team working on the cloud services that power our home sensors. 
+
+Since my professional work is mostly high-level development, I find my personal projects often gravitate to lower-level development. I occasionally make [YouTube videos](https://www.youtube.com/channel/UCt-Nse6C6xitV_rdcbliKKg/) about the projects if they're large or interesting enough. Some noteworthy projects I've been working on:
+
+ - iPod Nano 16GB - A project to expand the storage capacity of the 3rd generation iPod Nano. Progress has been slow but I'm in it for the long haul. I've made a video about it [here](https://youtu.be/5zk2CDQ5N9A) and will make more as I progress.
+ - [iPod Nano Bluetooth](https://github.com/lemonjesus/iPodBluetooth) - Adding fully-digital Bluetooth audio to the 3rd generation iPod Nano. This involved a fully custom PCB and some delecate soldering work, but it has some features that most iPod Bluetooth mods don't have (remote control, digital audio, etc). I've made a video about it [here](https://youtu.be/AVvXbqsTUnk).
+ - [iPod Nano for QEMU](https://github.com/lemonjesus/qemu-ipod-nano) - A project to emulate the 3rd generation iPod Nano in QEMU. This project is still a work in progress, but it currently gets through the first two bootloader stages. I made an [original attempt](https://github.com/lemonjesus/iPod-n3g-emulator) at implementing this in Unicorn, but I found it too slow to be practical.
+ - [AVX-512 Google Polyline Encoder](https://github.com/lemonjesus/avx512-polyline) - An excuse to learn AVX-512 since instruction set extensions interest me. To my knowledge, is the fastest and least portable Google Polyline encoder in existence. Some day I'll write its decoding couterpart.
+ 
+ I have a lot of other hobbies as well, including making videos, short films, and music (all of which you can find on my [YouTube Channel](https://www.youtube.com/channel/UCt-Nse6C6xitV_rdcbliKKg/)). I occasionally stream my project work on [Twitch](https://twitch.tv/TuckerOsman).
