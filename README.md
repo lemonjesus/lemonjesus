@@ -1,6 +1,6 @@
 ### Hello! I'm Tucker - a software engineer with too many hobbies. 🙂
 
-I'm a Ruby developer with a focus on backend development writing high-throughput, low-latency services. I've worked at Groupon working on and later owning the Users Service (the zero-downtime service handling user auth). Now, I work at Notion (the IoT company, not the note-taking app) on the backend team working on the cloud services that power our home sensors. 
+I'm a Ruby developer with a focus on backend development writing high-throughput, low-latency services. I've worked at Groupon working on and later owning the Users Service (the zero-downtime service handling user auth). I also worked at Notion (not the note taking one) on the backend team working on real time IoT Data Ingestion from their home sensors. Now I work at AppFolio doing full stack development in React and Rails.
 
 Since my professional work is mostly high-level development, I find my personal projects often gravitate to lower-level development. I occasionally make [YouTube videos](https://www.youtube.com/channel/UCt-Nse6C6xitV_rdcbliKKg/) about the projects if they're large or interesting enough. Some noteworthy projects I've been working on:
 
